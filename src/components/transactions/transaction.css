@@ -1,0 +1,6 @@
+section{
+    background-color: rgb(247, 247, 0);
+    flex: 1; 
+    padding: 20px;
+    width: calc(100%-252px);
+}
